@@ -1,2 +1,2 @@
 # SnakeGame
-snake game build with .Net C# desktop application
+snake game build with .Net C# desktop application(WinForm)
